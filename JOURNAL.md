@@ -29,7 +29,9 @@ now trying to understand about BOM, and how to assign lcsc and why lcsc.
 also trying to figure out other things about easyeda tool that I not used yet and learning how to make professional like things and standerds
 
 here is my progress
-[Schematic_Raspi_Router](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzEzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--ca2309762f389259c0487513cdc4aa6825dc9352/Schematic_LinkSIM-stu_2025-10-31.svg)
-![Screenshot 2025-10-31 23.46.24](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--168acfc6ebe6d614c63f7fb125158e95d1573c45/Screenshot%202025-10-31%2023.46.24.png)
+![Schematic_LinkSIM-stu_2025-11-01](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzE0MywicHVyIjoiYmxvYl9pZCJ9fQ==--0fb8bd7e6e4b111e18e01b4a86c478e997b602bd/Schematic_LinkSIM-stu_2025-11-01.png)
+![Screenshot 2025-11-01 00.03.14](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzE0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--ed1fc3501cebb290acb717689ec26ff196250f0f/Screenshot%202025-11-01%2000.03.14.png)
+
+
   
 
