@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/31/2025 - Plan things and also design Prototype  
+## 10/31/2025 9 AM - Plan things and also design Prototype  
 
 # Day 1 - 24/10/2025
 
@@ -17,5 +17,19 @@ create systemd service file to start auto forwarding on start. because its was n
 everything is fine
 
 ![IMG-20251031-WA0002](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--852810a901523ee035e1fbaf275a4c287b4549b9/IMG-20251031-WA0002.jpg)
+  
+
+## 10/31/2025 11 PM - Design Schematic and routed PCB  
+
+# Log 2 - 25/10/2025
+
+First time ever use easyeda, and learn how things works. its very similar but different from other graphics software like illustrator and coreldraw. design schematic. learn how to button and led are wired (specially 4-pin tectile button). 
+Design PCB and route it. learn about double and multi layer PCB. route, layer and other things try for the first time and enjoy while wire things
+now trying to understand about BOM, and how to assign lcsc and why lcsc. 
+also trying to figure out other things about easyeda tool that I not used yet and learning how to make professional like things and standerds
+
+here is my progress
+[Schematic_Raspi_Router](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzEzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--ca2309762f389259c0487513cdc4aa6825dc9352/Schematic_LinkSIM-stu_2025-10-31.svg)
+![Screenshot 2025-10-31 23.46.24](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--168acfc6ebe6d614c63f7fb125158e95d1573c45/Screenshot%202025-10-31%2023.46.24.png)
   
 
