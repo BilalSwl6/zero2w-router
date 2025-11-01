@@ -35,3 +35,13 @@ here is my progress
 
   
 
+## 11/1/2025 - design Box design and also add in assembly  
+
+Use Onshape to make project and make the cover box for Raspi and PCB as well.
+initially just design box and import design for Raspi, and assemble both in assembly. 
+it have seprate space for fan and holes on side to remove heat and design of heat sink. 
+
+![Bottom](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ce5529752c4394462e212f4cd94a6b7c53224e28/Screenshot%202025-11-01%2013.39.38.png)
+![Assembly](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--f638c3a23cb2d27b87db9e0bf13272da4860f798/Screenshot%202025-11-01%2013.40.33.png)
+  
+
