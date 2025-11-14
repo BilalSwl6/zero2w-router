@@ -61,3 +61,14 @@ here are screenshots of all designed parts and at the end a full assemblly
 ![Screenshot4](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwNDcsInB1ciI6ImJsb2JfaWQifX0=--8312ab21b32e654c0c7c0c0c1a61a313dfac9d02/Screenshot%202025-11-14%2019.05.57.png)
 ![Screenshot5](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwNDYsInB1ciI6ImJsb2JfaWQifX0=--01fd958ca4b6cdd5e430aa3136d7aa4558100cdd/Screenshot%202025-11-14%2019.06.52.png)
 ![Screenshot6](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwNDUsInB1ciI6ImJsb2JfaWQifX0=--6dc8041e0fcaf11457bd1002a14bf4992d7b4078/Screenshot%202025-11-14%2019.06.36.png)
+
+
+## shifting from router to general purpose
+# Log 4
+its is so difficult to use as router, it can work wirelessly but with data cable, it almost impossible to give smooth experience. raspi zero 2w is very small and cause voltage drop and automatically disconnect after some time. after all of this I decide to change it general purpose like restart, and power off, also some feature of OLED.
+
+I test this project for almost 2 weeks and I decide to drop this idea (raspi as router).
+now it will be just do some tasks and trigger things on button and that's it.
+
+Picture is just for submission
+![img](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTExMTQsInB1ciI6ImJsb2JfaWQifX0=--50584d4cb15e3c256bd82eb8a208b6d9f1e22f34/Screenshot%202025-11-14%2020.22.34.png)
