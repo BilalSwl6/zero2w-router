@@ -45,3 +45,19 @@ it have seprate space for fan and holes on side to remove heat and design of hea
 ![Assembly](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--f638c3a23cb2d27b87db9e0bf13272da4860f798/Screenshot%202025-11-01%2013.40.33.png)
   
 
+## Design Full Case in Onshape
+# Log 3
+
+Design Everything Like Bottom and top box, separator plate, PCB (that I design in EasyEDA) and also long sticks to connect (I do not know about name).
+
+Design Parts and assemble every thing to test is it really working and fix issue that cause problems like screw hole alignment.
+
+its take too much time when work on it because I am very new to all of this.
+
+here are screenshots of all designed parts and at the end a full assemblly
+![Screenshot](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwNDgsInB1ciI6ImJsb2JfaWQifX0=--48a11b5aabb52f4095d13e8150029adbd0173dc9/Screenshot%202025-11-14%2019.06.19.png)
+![Screenshot2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwNDksInB1ciI6ImJsb2JfaWQifX0=--0ee03bf13dce95e8e4ac1568f3afeac809c56814/Screenshot%202025-11-14%2012.46.56.png)
+![Screenshot3](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwNTAsInB1ciI6ImJsb2JfaWQifX0=--4f870f4f41cbd0ae91aca33476b6e9a8013fd82c/Screenshot%202025-11-14%2019.05.42.png)
+![Screenshot4](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwNDcsInB1ciI6ImJsb2JfaWQifX0=--8312ab21b32e654c0c7c0c0c1a61a313dfac9d02/Screenshot%202025-11-14%2019.05.57.png)
+![Screenshot5](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwNDYsInB1ciI6ImJsb2JfaWQifX0=--01fd958ca4b6cdd5e430aa3136d7aa4558100cdd/Screenshot%202025-11-14%2019.06.52.png)
+![Screenshot6](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwNDUsInB1ciI6ImJsb2JfaWQifX0=--6dc8041e0fcaf11457bd1002a14bf4992d7b4078/Screenshot%202025-11-14%2019.06.36.png)
