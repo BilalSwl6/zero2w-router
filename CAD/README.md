@@ -3,7 +3,7 @@
 there are multiple files that i design in onshape.
 i use multiple part studio to design parts, so there will be multiple files. i will upload with names (like Bottom.step)
 
-**Note: Print 4 time long-sticks-to-connect.step file because it need 4 time and also buttons-cap.step for 6 times. don't print PCB-Design.step, Heatsink.step and Board w- Header.step**
+**Note: Print 4 time long-sticks-to-connect.step file because it need 4 time and also buttons-cap.step for 6 times. don't print PCB-Design.step, Heatsink.step and Board-with-Header.step. Assembly-*.step is where all parts are togather**
 
 my OnShape Document Link: [Click Here](https://cad.onshape.com/documents/f076ff4b318b10d5514d2ec1/w/05b5a6d41b035cd42b6f4fd9/e/9eef6534312b7210f95c78d9)
 
@@ -32,3 +32,4 @@ buttons-caps.steps
 seprator-plate.step
 
 ![Seprator Plate](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEwNDgsInB1ciI6ImJsb2JfaWQifX0=--48a11b5aabb52f4095d13e8150029adbd0173dc9/Screenshot%202025-11-14%2019.06.19.png)
+
