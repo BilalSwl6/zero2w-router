@@ -1,4 +1,4 @@
-# Custom PCB for Raspberry Pi Zero 2 W
+# Custom PCB for Raspberry Pi Zero 2W with case
 
 A custom board that have some button (6) and some leds for status. it also have oled space to connect and see addtional thing on oled.
 
